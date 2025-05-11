@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="org.main.TS_001"/>
+      <class name="org.main.TS_002"/>
+      <class name="org.main.TS_003"/>
+      <class name="org.main.TS_004"/>
+      <class name="org.main.TS_005"/>
+      <class name="org.main.TS_006"/>
+      <class name="org.main.TS_007"/>
+      <class name="org.main.TS_008"/>
+      <class name="org.main.TS_009"/>
+      <class name="org.main.TS_010"/>
+      <class name="org.main.TS_011"/>
+      <class name="org.main.TS_012"/>
+      <class name="org.main.TS_014"/>
+      <class name="org.main.TS_016"/>
+      <class name="org.main.TS_018"/>
+      <class name="org.main.TS_020"/>
+      <class name="org.main.TS_022"/>
+      <class name="org.main.TS_024"/>
+      <class name="org.main.TS_026"/>
+      <class name="org.main.TS_028"/>
+      <class name="org.main.TS_030"/>
+      <class name="org.main.TS_032"/>
+      <class name="org.main.TS_034"/>
+      <class name="org.main.TS_036"/>
+      <class name="org.main.TS_040"/>
+      <class name="org.main.TS_042"/>
+      <class name="org.main.TS_044"/>
+      <class name="org.main.TS_046"/>
+      <class name="org.main.TS_050"/>
+      <class name="org.main.TS_052"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
